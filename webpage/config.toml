@@ -11,7 +11,7 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
   BookSection = '*'
   BookRepo = 'https://github.com/mayocream/Translations'
   BookCommitPath = 'commit'
-  BookEditPath = 'edit/master'
+  BookEditPath = 'edit/master/webpage'
 
 [markup.goldmark.renderer]
   unsafe = true
