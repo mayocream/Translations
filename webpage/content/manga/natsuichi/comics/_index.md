@@ -1,8 +1,9 @@
 ---
-title: "四格"
+title: "四格漫画"
 bookCollapseSection: true
+weight: 1000
 ---
 
-# 四格
+# 四格漫画
 
 {{<section>}}
