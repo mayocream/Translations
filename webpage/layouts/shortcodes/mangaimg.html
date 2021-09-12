@@ -1,4 +1,4 @@
 <figure>
-    <img src="https://cdn.jsdelivr.net/gh/mayocream/Translations@gh-pages/raw/{{ .Get "src" }}" alt="" loading="lazy">
+    <img src="https://cdn.jsdelivr.net/gh/mayocream/Translations@{{ getenv "GITHUB_SHA" }}/raw/{{ .Get "src" }}" alt="" loading="lazy">
     <figcaption>{{ .Get "alt" }}</figcaption>
 </figure>
