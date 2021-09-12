@@ -1,8 +1,8 @@
 ---
-title: Introduction
+title: 目录
 type: docs
 ---
 
-# Docs
+# 目录
 
-{{< columns >}}
+{{<section>}}
