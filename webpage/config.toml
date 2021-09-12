@@ -10,6 +10,11 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 [[menu.after]]
   name = "Github"
   url = "https://github.com/mayocream/Translations"
+  weight = 2
+
+[[menu.after]]
+  name = "About me"
+  url = "https://github.com/mayocream"
   weight = 1
 
 [params]
