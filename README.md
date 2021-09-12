@@ -2,6 +2,11 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]  
 文/あ
 
+个人翻译或合作翻译，汉化的作品。  
+均经过原作者授权允许汉化。  
+
+**转载原则上需经过原作者授权。**
+
 ## License
 This work is license under a
 [Creative Commons Attribution 4.0 International License][cc-by].
