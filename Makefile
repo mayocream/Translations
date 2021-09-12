@@ -11,4 +11,4 @@ preview:
 
 static:
 	mkdir -p public/raw/manga
-	cp manga public/raw/manga
+	cp -r manga public/raw/manga
