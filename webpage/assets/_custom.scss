@@ -1,0 +1,16 @@
+/* You can add custom styles here. */
+
+.manga figcaption {
+    font-size: 13px;
+    opacity: .6;
+    text-align: center;
+    line-height: 1.2;
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+    figure.manga {
+        margin: .1rem -1rem;
+    }
+}
+
+// @import "plugins/numbered";
