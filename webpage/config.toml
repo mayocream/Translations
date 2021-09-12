@@ -5,6 +5,13 @@ theme = "book"
 enableGitInfo = true
 disableKinds = ['taxonomy', 'taxonomyTerm']
 
+[menu]
+
+[[menu.after]]
+  name = "Github"
+  url = "https://github.com/mayocream/Translations"
+  weight = 1
+
 [params]
   BookTheme = 'auto'
   BookToC = 'false'
