@@ -17,16 +17,7 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
           lfs: true
-
-      - name: Build
-        run: make static
-
-      - name: Publish Static
-        uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/master' }}
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          cname: trans.shoujo.ink
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
