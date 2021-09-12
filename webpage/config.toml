@@ -2,3 +2,16 @@ baseURL = "."
 languageCode = "zh-Hans"
 title = "翻译"
 theme = "book"
+enableGitInfo = true
+disableKinds = ['taxonomy', 'taxonomyTerm']
+
+[params]
+  BookTheme = 'auto'
+  BookToC = 'false'
+  BookSection = '*'
+  BookRepo = 'https://github.com/mayocream/Translations'
+  BookCommitPath = 'commit'
+  BookEditPath = 'edit/master'
+
+[markup.goldmark.renderer]
+  unsafe = true
