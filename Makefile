@@ -10,4 +10,5 @@ preview:
 	cd webpage && hugo server
 
 static:
-	cp -rip manga public/raw/manga
+	mkdir public/raw/manga
+	cp manga public/raw/manga
