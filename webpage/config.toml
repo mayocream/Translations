@@ -1,0 +1,4 @@
+baseURL = "https://github.io/mayocream/translations/"
+languageCode = "zh-Hans"
+title = "翻译"
+theme = "book"
