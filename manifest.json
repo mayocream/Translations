@@ -1,0 +1,15 @@
+{
+  "name": "翻译",
+  "short_name": "翻译",
+  "start_url": "/mayocream/translations/",
+  "scope": "/mayocream/translations/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/mayocream/translations/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
