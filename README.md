@@ -2,8 +2,10 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]  
 文/あ
 
-个人翻译或合作翻译，汉化的作品。  
-均经过原作者授权允许汉化。
+*Translate workflows and release latest works.*
+
+个人独立或参与翻译、汉化的作品。  
+汉化作品均经过原作者授权。
 
 **Authorized by the original authors.**
 
@@ -12,6 +14,8 @@
 ### Manga
 
 #### [ナツイチ](https://twitter.com/natsuichi_721) (Natsuichi)
+
+> 汉化: 柠檬小姐汉化组
 
 - 四格漫画（Twitter）
 - 短篇集（Pixiv）
