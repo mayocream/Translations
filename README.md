@@ -1,5 +1,6 @@
 # Translations
-[![CC BY 4.0][cc-by-shield]][cc-by]  
+[![license](https://img.shields.io/github/license/mayocream/Translations)][cc-by]
+![pages](https://github.com/mayocream/Translations/actions/workflows/pages.yml/badge.svg)  
 文/あ
 
 *Repo: Translate workflows and release latest works.*
@@ -32,7 +33,7 @@
 - Git 管理源数据、备份翻译文本
 - Github LFS 管理二进制成品（付费额度）
 - Hugo 构建 Web 页面
-- Github Actions 自动构建
+- Github Actions 自动构建 Github Pages
 - jsDeliver CDN 加速
 
 ## License
