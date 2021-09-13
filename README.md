@@ -7,6 +7,15 @@
 
 **Authorized by the original authors.**
 
+## Projects
+
+### Manga
+
+#### [ナツイチ](https://twitter.com/natsuichi_721) (Natsuichi)
+
+- 四格漫画（Twitter）
+- 短篇集（Pixiv）
+
 ## Directory Structure
 
 - `manga` 漫画
