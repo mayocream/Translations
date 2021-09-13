@@ -10,12 +10,12 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 [[menu.after]]
   name = "Github"
   url = "https://github.com/mayocream/Translations"
-  weight = 2
+  weight = 1
 
 [[menu.after]]
   name = "About me"
   url = "https://github.com/mayocream"
-  weight = 1
+  weight = 2
 
 [params]
   BookTheme = 'auto'
