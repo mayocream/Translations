@@ -2,7 +2,7 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]  
 文/あ
 
-*Translate workflows and release latest works.*
+*Repo: Translate workflows and release latest works.*
 
 个人独立或参与翻译、汉化的作品。  
 汉化作品均经过原作者授权。
