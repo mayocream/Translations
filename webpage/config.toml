@@ -4,6 +4,10 @@ title = "翻译"
 theme = "book"
 enableGitInfo = true
 disableKinds = ['taxonomy', 'taxonomyTerm']
+defaultContentLanguage = "zh"
+hasCJKLanguage = true
+enableGitInfo = true
+enableEmoji = true
 
 [menu]
 
