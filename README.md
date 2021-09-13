@@ -1,6 +1,7 @@
 # Translations
 [![license](https://img.shields.io/github/license/mayocream/Translations)][cc-by]
-![pages](https://github.com/mayocream/Translations/actions/workflows/pages.yml/badge.svg)  
+![pages](https://github.com/mayocream/Translations/actions/workflows/pages.yml/badge.svg)
+<!-- ![](https://data.jsdelivr.com/v1/package/gh/mayocream/Translations/badge)   -->
 文/あ
 
 *Repo: Translate workflows and release latest works.*
