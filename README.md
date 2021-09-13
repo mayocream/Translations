@@ -3,9 +3,24 @@
 文/あ
 
 个人翻译或合作翻译，汉化的作品。  
-均经过原作者授权允许汉化。  
+均经过原作者授权允许汉化。
 
-**转载原则上需经过原作者授权。**
+**Authorized by the original authors.**
+
+## Directory Structure
+
+- `manga` 漫画
+- `scripts` 构建脚本
+- `webpage` Web 站点
+
+## Workflows
+
+- [萌翻](https://moeflow.com) 漫画翻译进度管理
+- Git 管理源数据、备份翻译文本
+- Github LFS 管理二进制成品（付费额度）
+- Hugo 构建 Web 页面
+- Github Actions 自动构建
+- jsDeliver CDN 加速
 
 ## License
 This work is license under a
